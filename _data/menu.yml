@@ -1,0 +1,27 @@
+entries:
+  - title: info
+    entries:
+      - title: My NFTs
+        url: https://objkt.com/profile/bitsquit/
+      - title: Bits Map (Coming soon..)
+        url: ""
+
+  - title: all posts
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml
+  
+  - title: social
+    entries:
+      - title: Discord (coming soon..)
+      - title: Twitter
+        url: https://twitter.com/bitsquitez
+      - title: Instagram
+        url: https://instagram.com/bitsquit
+      - title: Facebook
+        url: https://facebook.com/bitsquitez

@@ -1,0 +1,25 @@
+title: bitsquit
+author: Loncengereja
+email: halobitsquit@gmail.com
+url: 'https://bitsquitez.github.io'
+baseurl: ""
+description: > 
+  wel-come!
+
+permalink: /:slug.html
+
+favicon: "./logo.png"
+
+remote_theme: riggraz/no-style-please
+theme_config: 
+  appearance: dark
+  back_home_text: "back"
+  date_format: "%Y-%m-%d"
+  show_description: true
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
