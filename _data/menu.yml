@@ -1,4 +1,6 @@
 entries:
+  - title: About bitsquit
+    url: about
   - title: info
     entries:
       - title: My NFTs
@@ -24,4 +26,4 @@ entries:
       - title: Instagram
         url: https://instagram.com/bitsquit
       - title: Facebook
-        url: https://facebook.com/bitsquitez
+        url: https://facebook.com/bitsquit
