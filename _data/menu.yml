@@ -5,8 +5,7 @@ entries:
     entries:
       - title: My NFTs
         url: https://objkt.com/profile/bitsquit/
-      - title: Bits Map (Coming soon..)
-        url: ""
+      - title: BitsMap (coming soon..)
 
   - title: all posts
     post_list:
