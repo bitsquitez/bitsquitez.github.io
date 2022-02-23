@@ -3,9 +3,10 @@ entries:
     url: about
   - title: info
     entries:
-      - title: My NFTs
-        url: https://objkt.com/profile/bitsquit/
-      - title: BitsMap (coming soon..)
+      - title: My NFT collections
+        url: https://objkt.com/profile/bitsquit/collections
+      - title: BitsMap
+        url: https://purring-bonsai-622.notion.site/fe095afcbdde47f6870da2c9a551cb98?v=916bdc10e21c444e96c57a6c550121bd
 
   - title: all posts
     post_list:
