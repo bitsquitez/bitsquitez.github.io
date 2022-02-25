@@ -17,7 +17,7 @@ title: Bits Board
     /* Reset default border */
     height: 550vh;
     /* Viewport-relative units */
-    width: 100vw;
+    width: 640px;
   }
 </style>
 <iframe src="https://nftbiker.xyz/onsale?wallet=YOUR_WALLET&hide=1&theme=COLOR"></iframe>
