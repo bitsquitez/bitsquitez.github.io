@@ -23,7 +23,7 @@ Of these 1,000 items, there are five background traits. Cadet Background, Mornin
 
 <h2>Utilities</h2>
 
-1. Bitset
+<h3>Bitset</h3>
 
 Everyone who collects 1 Negative Ponks item. You will get 1 Bitset from me as a thank you for supporting this project. What you will get includes:
 - 1 softfile size 2560 x 1440 px
@@ -33,19 +33,19 @@ Everyone who collects 1 Negative Ponks item. You will get 1 Bitset from me as a 
 - 1 softfile with a transparent background size of 500 x 500px
 ps: If you collect ponks from second hand. Please contact me via twitter, discord, email or instagram. I’d be happy to send you a bitset.
 
-2. True Ponks
+<h3>True Ponks</h3>
 
-I’m going to re-render the ponks using their original colors. True ponks will be available in 200 items. Every item from True Ponks will come with a 3/3 edition. To the loyal ponks holders. You will have access to True Ponks. The holder is free to do whatever he wants with Bwinion, such as keep it, register it, or give it away.
+I’m going to re-render the Ponks using their original colors. True ponks will be available in 200 items. Every item from True Ponks will come with a 3/3 edition. To the loyal ponks holders. You will have access to True Ponks. The holder is free to do whatever he wants with True Ponks, such as keep it, register it, or give it away.
 
-3. Create GIF Album
+<h3>Create GIF Album</h3>
 
 For loyal negative ponks holders will also get assets for making GIF albums. Minimum album creation comprises 4 Negative Ponks items.
 
-4. Holders get AirDrops
+<h3>Holders Get AirDrops</h3>
 
 As I described above. There will be 67 items that will be stored and distributed in airdrops and giveaways. And the holders will get it first.
 
-4. Bitschandise
+<h3>Bitschandise</h3>
 
 Will come soon. We will do further discussion in the community. I have written many concepts about Bitschandise in the future.
 
