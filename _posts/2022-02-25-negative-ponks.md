@@ -3,6 +3,8 @@ layout: post
 title: "Negative Ponks"
 ---
 
+The Negative Ponks are 1,000 uniquely generated items from 65 traits. No two are exactly alike, and each one of them can be officially owned by a single person on the Tezos blockchain. Inspired by the appearance of Pocong, one of the most feared ghosts by the people of Indonesia.
+
 <img src="./assets/images/Negative_Ponks_GIF_500px.gif" alt="Negative Ponks" style="width:500px;height:500px;"/>
 
 The Negative Ponks are 1,000 uniquely generated items from 65 traits. No two are exactly alike, and each one of them can be officially owned by a single person on the Tezos blockchain. Inspired by the appearance of Pocong, one of the most feared ghosts by the people of Indonesia.
