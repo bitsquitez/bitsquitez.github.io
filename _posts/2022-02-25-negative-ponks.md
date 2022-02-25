@@ -9,4 +9,7 @@ The Negative Ponks are 1,000 characters uniquely generated from 65 traits. Inspi
 
 Of these 1,000 items, there are five background traits. Cadet Background, Morning Blue Background, and Yellow Background will be open for sale. The total number of items in these three backgrounds is 732 items. Background Independence, totaling 147 items, will be sale privately in the Bitsquit community. While the Cordovan Backgrounds, totaling 67 items, will distribute to you either through the Airdrop, Giveaway and so on.
 
+Then what makes Negative Ponks unique? OK, maybe you didn’t notice. Each ponks item is rendered not in its original color. The idea is a negative film. So, seeing the original color of each item, use the negative filter available on Instagram.
+
 <img src="./assets/images/negative_ponks_preview.png" alt="preview of Negative Ponks" max-width="100%" height="auto"/>
+
