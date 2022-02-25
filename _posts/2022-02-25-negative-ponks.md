@@ -31,6 +31,7 @@ Everyone who collects one Negative Ponks item. You will get 1 Digital Bundles fr
 - One softfile size 1640 x 924 px
 - One softfile size 500 x 500 px
 - One softfile (transparent background) size of 500 x 500px
+
 ps: If you collect ponks from second hand. Please contact me via twitter, discord, email or instagram. I’d be happy to send you a bitset.
 
 <h3>True Ponks</h3>
