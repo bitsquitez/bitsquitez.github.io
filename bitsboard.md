@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bits Board
+title: Bitsboard
 ---
 
 <style>
