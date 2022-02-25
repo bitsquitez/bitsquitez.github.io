@@ -15,9 +15,9 @@ Of these 1,000 items, there are five background traits. Cadet Background, Mornin
 
 - You must have a tezos wallet, tezos and an account at OBJKTcom. You can see guides for it that are widely spread on the internet.
 
-- If you already have the one in the first point. You can visit the Negative Ponks Collection via this link.
+- If you already have the one in the first point. You can visit the Negative Ponks Collection via this link. Take note! I only sell this collection through OBJKTcom. I didn’t do it anywhere else.
 
-- Please browse the negative ponks collection. If you like one, you can buy it. Please note whether the item you want is still available or already belongs to another collector.
+- Please browse the negative ponks collection. If you like one, you can buy it. Please note whether the item you want is still available or already belongs to another collector. 
 
 - If the item you want already belongs to another collector. You have to buy it from the collector. Regarding the price and the way he sells it, it is entirely the collector’s right.
 
