@@ -1,6 +1,8 @@
 entries:
   - title: About bitsquit
     url: about
+  - title: Bits Board
+    url: bitsboard
   - title: info
     entries:
       - title: My NFT collections
