@@ -15,7 +15,7 @@ Of these 1,000 items, there are five background traits. Cadet Background, Mornin
 
 - You must have a tezos wallet, tezos and an account at OBJKTcom. You can see guides for it that are widely spread on the internet.
 
-- If you already have the one in the first point. You can visit the Negative Ponks Collection via this link. Take note! I only sell this collection through OBJKTcom. I didn’t do it anywhere else.
+- If you already have the one in the first point. You can visit the Negative Ponks Collection via [THIS LINK](https://objkt.com/collection/KT1PkDf1SLCtuDMshCzENEsNCFWXK7Ai6ujE). Take note! I only sell this collection through OBJKTcom. I didn’t do it anywhere else.
 
 - Please browse the negative ponks collection. If you like one, you can buy it. Please note whether the item you want is still available or already belongs to another collector. 
 
@@ -25,12 +25,12 @@ Of these 1,000 items, there are five background traits. Cadet Background, Mornin
 
 <h3>Digital Bundles</h3>
 
-Everyone who collects 1 Negative Ponks item. You will get 1 Bitset from me as a thank you for supporting this project. What you will get includes:
-- 1 softfile size 2560 x 1440 px
-- 1 softfile 1440 x 2560 px
-- 1 softfile size 1640 x 924 px
-- 1 softfile size 500 x 500 px
-- 1 softfile with a transparent background size of 500 x 500px
+Everyone who collects one Negative Ponks item. You will get 1 Digital Bundles from me as a thank you for supporting this project. What you will get includes:
+- One softfile size 2560 x 1440 px
+- One softfile 1440 x 2560 px
+- One softfile size 1640 x 924 px
+- One softfile size 500 x 500 px
+- One softfile (transparent background) size of 500 x 500px
 ps: If you collect ponks from second hand. Please contact me via twitter, discord, email or instagram. I’d be happy to send you a bitset.
 
 <h3>True Ponks</h3>
