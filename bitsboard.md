@@ -20,4 +20,4 @@ title: Bits Board
     width: 640px;
   }
 </style>
-<iframe src="https://nftbiker.xyz/onsale?wallet=YOUR_WALLET&hide=1&theme=COLOR"></iframe>
+<iframe src="https://nftbiker.xyz/onsale?wallet=tz2UJy5bWeSdkHSKazR4oL921QBttWSx5eyC&hide=1&theme=COLOR"></iframe>
