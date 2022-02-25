@@ -3,7 +3,7 @@ layout: post
 title: "Negative Ponks"
 ---
 
-<img src="./assets/images/Negative_Ponks_GIF_500px.gif" alt="Negative Ponks" style="width:500px;height:500px;"/>
+<img src="./assets/images/Negative_Ponks_GIF_500px.gif" alt="Negative Ponks" style="width:300px;height:300px;"/>
 
 <h2>What is Negative Ponks?</h2>
 
