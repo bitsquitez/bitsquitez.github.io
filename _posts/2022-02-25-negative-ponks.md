@@ -9,4 +9,4 @@ title: "Negative Ponks"
 
 The Negative Ponks are 1,000 uniquely generated items from 65 traits. No two are exactly alike, and each one of them can be officially owned by a single person on the Tezos blockchain. 
 
-<img src="./assets/images/preview.png" id="bg" width="2410" height="1500">
+<img.bg src="./assets/images/preview.png" id="bg" width="2410" height="1500">
