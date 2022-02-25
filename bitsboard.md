@@ -11,7 +11,7 @@ title: Bitsboard
     display: block;
     background: auto;
     border: none;
-    max-width: 640px;
+    width: 640px;
     height: 640px;
   }
 </style>
