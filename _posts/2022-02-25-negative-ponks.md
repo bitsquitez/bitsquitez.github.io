@@ -31,6 +31,7 @@ Everyone who collects 1 Negative Ponks item. You will get 1 Bitset from me as a 
 - 1 softfile size 1640 x 924 px
 - 1 softfile size 500 x 500 px
 - 1 softfile with a transparent background size of 500 x 500px
+ps: If you collect ponks from second hand. Please contact me via twitter, discord, email or instagram. I’d be happy to send you a bitset.
 
 2. True Ponks
 
@@ -39,6 +40,10 @@ I’m going to re-render the ponks using their original colors. True ponks will 
 3. Create GIF Album
 
 For loyal negative ponks holders will also get assets for making GIF albums. Minimum album creation comprises 4 Negative Ponks items.
+
+4. Holders get AirDrops
+
+As I described above. There will be 67 items that will be stored and distributed in airdrops and giveaways. And the holders will get it first.
 
 4. Bitschandise
 
