@@ -15,7 +15,7 @@ title: Bits Board
     background: #000;
     border: none;
     /* Reset default border */
-    height: 100%;
+    height: 640px;
     /* Viewport-relative units */
     width: 640px;
   }
