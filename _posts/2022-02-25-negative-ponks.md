@@ -21,6 +21,29 @@ Of these 1,000 items, there are five background traits. Cadet Background, Mornin
 
 - If the item you want already belongs to another collector. You have to buy it from the collector. Regarding the price and the way he sells it, it is entirely the collector’s right.
 
+<h2>Utilities</h2>
+
+1. Bitset
+
+Everyone who collects 1 Negative Ponks item. You will get 1 Bitset from me as a thank you for supporting this project. What you will get includes:
+- 1 softfile size 2560 x 1440 px
+- 1 softfile 1440 x 2560 px
+- 1 softfile size 1640 x 924 px
+- 1 softfile size 500 x 500 px
+- 1 softfile with a transparent background size of 500 x 500px
+
+2. True Ponks
+
+I’m going to re-render the ponks using their original colors. True ponks will be available in 200 items. Every item from True Ponks will come with a 3/3 edition. To the loyal ponks holders. You will have access to True Ponks. The holder is free to do whatever he wants with Bwinion, such as keep it, register it, or give it away.
+
+3. Create GIF Album
+
+For loyal negative ponks holders will also get assets for making GIF albums. Minimum album creation comprises 4 Negative Ponks items.
+
+4. Bitschandise
+
+Will come soon. We will do further discussion in the community. I have written many concepts about Bitschandise in the future.
+
 Then what makes Negative Ponks unique? OK, maybe you didn’t notice. Each ponks item is rendered not in its original color. The idea is a negative film. So, seeing the original color of each item, use the negative filter available on Instagram.
 
 <img src="./assets/images/negative_ponks_preview.png" alt="preview of Negative Ponks" max-width="100%" height="auto"/>
