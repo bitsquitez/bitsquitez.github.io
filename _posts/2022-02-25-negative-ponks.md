@@ -48,9 +48,13 @@ For loyal negative ponks holders will also get assets for making GIF albums. Min
 
 As I described above. There will be 67 items that will be stored and distributed in airdrops and giveaways. And the holders will get it first.
 
+<h3>Enter Bitsboard</h3>
+
+If you have at least 1 Negative Ponks then you are eligible to enter Bitsboard. Everyone will see your achievements. Are you ready to be on top?
+
 <h3>Bitschandise</h3>
 
-Will come soon. We will do further discussion in the community. I have written many concepts about Bitschandise in the future.
+Will come soon. We will do further discussion in the community. I have written many concepts about Bitschandise.
 
 <h2>Then what makes Negative Ponks unique?</h2> 
 
