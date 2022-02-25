@@ -23,7 +23,7 @@ Of these 1,000 items, there are five background traits. Cadet Background, Mornin
 
 <h2>Utilities</h2>
 
-<h3>Bitset</h3>
+<h3>Digital Bundles</h3>
 
 Everyone who collects 1 Negative Ponks item. You will get 1 Bitset from me as a thank you for supporting this project. What you will get includes:
 - 1 softfile size 2560 x 1440 px
