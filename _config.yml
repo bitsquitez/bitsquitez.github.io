@@ -15,7 +15,7 @@ theme_config:
   appearance: dark
   back_home_text: "back"
   date_format: "%Y-%m-%d"
-  show_description: true
+  show_description: false
 
 sass:
   style: :compressed
