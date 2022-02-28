@@ -15,4 +15,4 @@ title: Bitsboard
     height: 640px;
   }
 </style>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBABDIoCvzpDJWnWzvYS3YaY1B1lP3R_Lwko3jXafmopDQ-kE-ZkrDN-WNTLoXdsQgo6iqqwlSqgxH/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://bitsquit.notion.site/fe095afcbdde47f6870da2c9a551cb98?v=916bdc10e21c444e96c57a6c550121bd"></iframe>
