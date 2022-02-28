@@ -1,15 +1,13 @@
 entries:
   - title: About bitsquit
     url: about
+  - title: Spuky Collections
+    url: https://objkt.com/collection/KT1PkDf1SLCtuDMshCzENEsNCFWXK7Ai6ujE
   - title: Bitsboard
-    url: bitsboard
-  - title: info
-    entries:
-      - title: My NFT collections
-        url: https://objkt.com/profile/bitsquit/collections
-      - title: Bitsmap
-        url: https://purring-bonsai-622.notion.site/fe095afcbdde47f6870da2c9a551cb98?v=916bdc10e21c444e96c57a6c550121bd
-
+    url: https://bitsquit.notion.site/bitsquit/cce3705627374bc18e20b91b61981276?v=21549bb2cf55491f964dee0da6cfb134
+  - title: Things you also need to know (Bitsmap)
+    url: https://bitsquit.notion.site/fe095afcbdde47f6870da2c9a551cb98?v=916bdc10e21c444e96c57a6c550121bd
+      
   - title: all posts
     post_list:
       limit: 10
@@ -17,12 +15,11 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: social
-    entries:
-      - title: Discord (coming soon..)
-      - title: Twitter
-        url: https://twitter.com/bitsquitez
-      - title: Instagram
-        url: https://instagram.com/bitsquit
-      - title: Facebook
-        url: https://facebook.com/bitsquit
+  - title: Discord 
+    url: https://discord.gg/R4REtzQFA4
+  - title: Twitter
+    url: https://twitter.com/bitsquitez
+  - title: Instagram
+    url: https://instagram.com/bitsquit
+
+  <p>&copy; 2015 Bitsquit</p>
