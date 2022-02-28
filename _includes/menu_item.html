@@ -1,10 +1,12 @@
 <ul>
   {%-for item in include.collection-%}
-  {%- if item.url -%}
-    <a href="{{ item.url }}">{{ item.title }}</a>
-  {%- else -%}
-    {{ item.title }}
-  {%- endif -%}
+    <li>
+    {%- if item.url -%}
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    {%- else -%}
+      {{ item.title }}
+    {%- endif -%}
+    </li>
 
     {%-if item.post_list-%}
       {%
@@ -17,8 +19,8 @@
      -%}
     {%-endif-%}
 
-  {%-if item.entries-%}
-    {%-include menu_item.html collection=item.entries-%}
-  {%-endif-%}
+    {%-if item.entries-%}
+      {%-include menu_item.html collection=item.entries-%}
+    {%-endif-%}
   {%-endfor-%}
 </ul>
